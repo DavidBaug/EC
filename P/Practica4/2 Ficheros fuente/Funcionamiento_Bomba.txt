@@ -1,0 +1,11 @@
+Para la codificación de esta bomba a la contraseña introducida le sumo un uno
+en ascii.
+
+A la hora de llamar al método solo lo llamo para la contraseña que introduces
+desde la terminal ya que la contraseña establecida está codificada previamente.
+Para hacer más complicada la resolución del problema en el .c hago funciones
+con bucles y comprobaciones y las llamo en el main junto a las llamadas para
+pedir la contraseña y el código.
+
+Además de todo esto cada nombre de las funciones ha sido cambiado por otro para
+evitar que se conozca en que momento llamamos a detonar, codificar,etc...
